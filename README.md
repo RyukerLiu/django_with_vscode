@@ -2,4 +2,4 @@
 
 Try django project with VSCode
 
-TEST OH~!!!
+TEST OH~!!! T
