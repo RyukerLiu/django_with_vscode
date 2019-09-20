@@ -2,4 +2,6 @@
 
 Try django project with VSCode
 
-TEST OH~!!! TEST GIT
+And Git with Visual Studio Code also.
+
+It works!!!!!!
